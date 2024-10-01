@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-I keep track of my studying in my spare time [here](https://github.com/wimdetroyer/study-notes)
+I keep track of my studying in my spare time [here](https://github.com/wimdetroyer/study-notes).
+
 Find my website [here](https://wimdetroyer.com/).
 <!--
 **wimdetroyer/wimdetroyer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
