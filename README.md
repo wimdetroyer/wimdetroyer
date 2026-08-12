@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Wim, a freelance Java developer from Belgium with around 7 years of experience, nice to meet you! 🙂
+I'm Wim, a freelance Java developer from Belgium with around 8 years of experience, nice to meet you! 🙂
 
 I focus on backend web development mainly, and use the Spring Framework on a daily basis. I've grown to love for its solid documentation, helpful and active community and for the simplicity of use.
 
